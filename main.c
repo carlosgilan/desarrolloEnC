@@ -11,9 +11,9 @@ int main() {
   recorrer();
 
   numerosPrimos();
-  printf("Hola como estas? haciendo pruebas de Low Level Pogramming para "
-         "electronica y sistemas operativos, kernels, emsamblador, CPU, "
-         "robotica y todo de bajo nivel, para estar lo mas cercano al "
-         "hardware......");
+  printf(
+      "Hola como estas? haciendo pruebas de Low Level Pogramming para "
+      "electronica y sistemas operativos, kernels, emsamblador, CPU, "
+      "robotica y todo de bajo nivel, para estar lo mas cercano al hardware");
   return 0;
 }
